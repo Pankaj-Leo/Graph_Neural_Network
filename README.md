@@ -1,4 +1,4 @@
-# 🧠 DeepFindr AI Projects Suite
+# 🧠AI Projects Suite
 *A collection of graph-based, text-based, and spatiotemporal machine learning applications.*
 
 ---
